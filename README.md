@@ -14,7 +14,7 @@ $ apt upgrade
 $ apt install python
 $ apt install git
 $ git clone https://github.com/Aditmadzs/helloworld
-$ cd HelloWorld2018
+$ cd helloworld
 $ python -m pip install -r requirements.txt
 $ python helloworld.py -a IOSIPAD
 ```
