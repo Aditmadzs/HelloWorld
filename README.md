@@ -4,24 +4,26 @@
 
 ----
 
-## Instalasi untuk Termux
+# JANGAN LUPA ADD [ADITMADZS BOT](line.me/ti/p/~botaditmadzs)
+
+## Termux
 
 ```sh
 $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/arifistifik/HelloWorld2018
+$ git clone https://github.com/Aditmadzs/helloworld
 $ cd HelloWorld2018
 $ python -m pip install -r requirements.txt
 $ python helloworld.py -a IOSIPAD
 ```
 
-## Installation for VPS
+## VPS
 
 ```sh
-$ git clone https://github.com/arifistifik/HelloWorld2018
-$ cd HelloWorld2018
+$ git clone https://github.com/Aditmadzs/helloworld
+$ cd helloworld
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py -a IOSIPAD
 ```
