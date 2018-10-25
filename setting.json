@@ -6,14 +6,14 @@
     },
     "autoJoin": {
         "status": false,
-        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Hello World",
+        "message": "Hello @!, thanks for invite me to this group\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
         "reply": true,
         "ticket": false
     },
     "autoRead": false,
     "autoRespond": {
         "status": false,
-        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Hello World"
+        "message": "Hello @!, thanks for your message this is auto respond\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
     },
     "autoRespondMention": {
         "status": false,
