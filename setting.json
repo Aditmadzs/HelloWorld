@@ -47,7 +47,7 @@
         "target": {}
     },
     "setKey": {
-        "status": false,
+        "status": true,
         "key": "."
     },
     "copyright": "If you respect the author please don't remove this copyright\n© 2018 Hello World",
