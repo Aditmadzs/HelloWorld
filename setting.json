@@ -13,7 +13,7 @@
     "autoRead": false,
     "autoRespond": {
         "status": false,
-        "message": "Hello @!, thanks for your message this is auto respond\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
+        "message": "Hello @!, thanks for your message this is auto respond\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
     },
     "autoRespondMention": {
         "status": true,
