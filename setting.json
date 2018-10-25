@@ -16,7 +16,7 @@
         "message": "Hello @!, thanks for your message this is auto respond\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
     },
     "autoRespondMention": {
-        "status": false,
+        "status": true,
         "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
     },
     "changeGroupPicture": [],
@@ -28,7 +28,7 @@
     "defaultReplyReader" : "Hello @!, come here join to chat\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
     "greet": {
         "join": {
-            "status": false,
+            "status": true,
             "message": "Hello @!, welcome to group {name}\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
         },
         "leave": {
@@ -47,8 +47,8 @@
         "target": {}
     },
     "setKey": {
-        "status": true,
-        "key": ""
+        "status": false,
+        "key": "."
     },
     "copyright": "If you respect the author please don't remove this copyright\n© 2018 Hello World",
     "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404"
