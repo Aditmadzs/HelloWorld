@@ -217,7 +217,7 @@ class Talk(object):
         arrData = ""
         text = "%s " %(str(firstmessage))
         arr = []
-        mention = "@zeroxyuuki "
+        mention = "@Aditmadzs "
         slen = str(len(text))
         elen = str(len(text) + len(mention) - 1)
         arrData = {'S':slen, 'E':elen, 'M':mid}
@@ -229,7 +229,7 @@ class Talk(object):
     def sendMentionV2(self, to, text="", mids=[], isUnicode=False):
         arrData = ""
         arr = []
-        mention = "@zeroxyuuki "
+        mention = "@Aditmadzs "
         if mids == []:
             raise Exception("Invalid mids")
         if "@!" in text:
