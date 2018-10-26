@@ -188,7 +188,7 @@ def mentionMembers(to, mids=[]):
     if myMid in mids: mids.remove(myMid)
     parsed_len = len(mids)//20+1
     result = '╭───「 Mention Members 」\n'
-    mention = '@aditmadzs\n'
+    mention = '@Aditmadzs\n'
     no = 0
     for point in range(parsed_len):
         mentionees = []
