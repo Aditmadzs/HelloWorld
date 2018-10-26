@@ -9,12 +9,12 @@ livejson==1.8.1
 pafy==0.5.4
 pyasn1==0.4.4
 pytz==2018.5
-requests==2.19.1
+requests
 rsa==4.0
 six==1.11.0
 thrift==0.11.0
-urllib3==1.23
-youtube-dl==2018.10.5
+urllib3
+youtube-dl
 PyQRCode
 datetime
 html5lib
